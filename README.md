@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 🔭 I’m currently working on backend based Mini Projects 
+### 🌱 I’m currently learning some frontend languages such as JS, HTML, & CSS
 
 <!--
 **algorao/algorao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
