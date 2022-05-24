@@ -1,6 +1,6 @@
-### Hi there 👋
-### 🔭 I’m currently working on backend based Mini Projects 
-### 🌱 I’m currently learning some frontend languages such as JS, HTML, & CSS
+### Hey! 👋
+### 🔭 I’m currently working on OOP C++, MASM, and Data Structures & Algorithms 
+### 👯 I’m looking to collaborate on Open Source Projects & LeetCode 
 ### 😄 Feel free to browse around my github page!
 
 <!--
